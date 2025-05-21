@@ -1,0 +1,6 @@
+- externalId: {{ icapi_ds_external_id }}
+  name: Overall Equipment Effectiveness
+  description: This dataset measures the overall equipment effectiveness
+  writeProtected: false
+  metadata:
+    origin: cognite-toolkit

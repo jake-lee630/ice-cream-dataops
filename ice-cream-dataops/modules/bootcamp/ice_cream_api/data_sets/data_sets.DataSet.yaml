@@ -1,0 +1,6 @@
+- externalId: {{ icapi_ds_external_id }}
+  name: asset:icapi
+  description: This dataset contains asset data for the icapi
+  writeProtected: false
+  metadata:
+    origin: cognite-toolkit
